@@ -1,3 +1,1 @@
 infobip = 75d184a54f526172bb6688c4647c10b0-4a65a62c-d100-4e7c-a824-5bd45505b69b , infobip endpoint = 9kwrmv.api.infobip.com
-
-
