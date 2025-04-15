@@ -1,0 +1,9 @@
+{
+    "graphs": {
+      "simple_graph": "./simple.py:build"
+    },
+    "python_version": "3.11",
+    "dependencies": [
+      "."
+    ]
+  }
