@@ -1,0 +1,6 @@
+! create the personal resume builder
+! send the email to the recuter accoidng to the mail daily 250 (mainly focus on the abroad countries)
+
+https://python.langchain.com/docs/integrations/tools/gmail/
+explore = https://www.ainetwork.ai/build
+

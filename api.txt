@@ -1,0 +1,3 @@
+https://my.asknews.app/en/settings/api-credentials -> Client ID: ccf928a3-4aea-4510-8aa4-818a4da4a5dd Client Secret: FVSJLNDeLX67qTZIYc~1WSzfXT
+
+

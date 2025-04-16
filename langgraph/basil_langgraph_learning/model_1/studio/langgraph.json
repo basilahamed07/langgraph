@@ -1,6 +1,7 @@
 {
     "graphs": {
-      "simple_graph": "./simple.py:build"
+      "simple_graph": "./simple.py:build",
+      "chain": "./chain.py:build"
     },
     "python_version": "3.11",
     "dependencies": [
