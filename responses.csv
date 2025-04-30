@@ -1,0 +1,21 @@
+open_web_ui_time_taken,open_web_ui_question,open_web_ui_answer,chatgroq_time_taken,chatgroq_question,chatgroq_answer
+Error,"
+        Write a Python function that sorts a list of dictionaries by multiple keys, where the primary key is in ascending order and the secondary key is in descending order. The function should handle missing keys gracefully by assuming a default value.
+        ",Error with request,Error,"
+        Write a Python function that sorts a list of dictionaries by multiple keys, where the primary key is in ascending order and the secondary key is in descending order. The function should handle missing keys gracefully by assuming a default value.
+        ",Error with request
+Error,"
+        Optimize a given Python function that processes large numerical datasets to improve its time complexity, ensuring minimal memory usage.
+        ",Error with request,Error,"
+        Optimize a given Python function that processes large numerical datasets to improve its time complexity, ensuring minimal memory usage.
+        ",Error with request
+Error,"
+        Provide a comprehensive summary of the key findings in a research paper discussing the ethical implications of space exploration, specifically addressing issues such as planetary protection, space debris management, and the equitable use of extraterrestrial resources.
+        ",Error parsing JSON,Error,"
+        Provide a comprehensive summary of the key findings in a research paper discussing the ethical implications of space exploration, specifically addressing issues such as planetary protection, space debris management, and the equitable use of extraterrestrial resources.
+        ",Error parsing JSON
+Error,"
+        Analyze the impact of AI-driven decision-making in space mission planning, focusing on ethical concerns and biases in autonomous systems.
+        ",Error parsing JSON,Error,"
+        Analyze the impact of AI-driven decision-making in space mission planning, focusing on ethical concerns and biases in autonomous systems.
+        ",Error parsing JSON
